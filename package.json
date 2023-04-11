@@ -1,9 +1,9 @@
 {
   "name": "mexc-sdk",
   "version": "1.0.0",
-  "description": "mexc sdk",
-  "main": "src/index.js",
-  "types": "src/index.d.ts",
+  "description": "This is a modified version from DefiStars",
+  "main": "dist/js/index.js",
+  "types": "dist/js/index.d.ts",
   "scripts": {
     "build": "jsii",
     "build:watch": "jsii --watch",
